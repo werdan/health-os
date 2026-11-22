@@ -104,7 +104,7 @@ The person's own routine lives in their `Practices`. This file is the pick-list 
 1. From the person's profile, list the **patterns they need**: stiff areas, sitting load, sport, rehab direction.
 2. Strike moves whose **flags** clash with their constraints. Strike `flex` moves if the routine is in the morning.
 3. Pick **one move per needed pattern**, bold ones first, until each pattern is covered. Usually that's 6–8 moves.
-4. Order floor → standing. Set reps: A moves 5–6 per side, P moves 2 × 15–30 s.
+4. **Group by position, not by move:** prone → supine → side → kneeling → squat → standing, which is the act of getting up off the floor. Remember 5–6 positions with 1–2 moves each, not a list of 8 exercises. Set reps: A moves 5–6 per side, P moves 2 × 15–30 s.
 5. Write it into `Practices` as a fixed table, with one line on why each move is there for this person.
 
 ## Reading a routine you found
